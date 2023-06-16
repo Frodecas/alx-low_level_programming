@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Usage: CFILE=<input_file> ./preprocess_c.sh"
+gcc -E $CFILE -o c
