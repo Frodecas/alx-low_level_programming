@@ -1,1 +1,1 @@
-directory containing the script of the language
+folder for processor
